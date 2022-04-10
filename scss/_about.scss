@@ -1,0 +1,22 @@
+@import "vars";
+
+.about {
+    font-family: $main-font;
+
+    &__title {
+        color: $black;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 80px;
+        
+    }
+    &__text {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 20px;
+        text-align: center;
+        color: $grey;
+
+    }
+}
