@@ -1,8 +1,16 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACEA,AAAA,GAAG,AAAC,CACF,gBAAgB,CAAE,IAAI,CACvB",
     "sources": [
-        "../scss/main.scss"
+        "../scss/main.scss",
+        "../scss/_header.scss",
+        "../scss/_vars.scss",
+        "../scss/_skills.scss",
+        "../scss/_about-us.scss",
+        "../scss/_pricing.scss",
+        "../scss/_contact.scss",
+        "../scss/_footer.scss",
+        "../scss/_btn.scss"
     ],
     "names": [],
     "file": "main.min.css"
