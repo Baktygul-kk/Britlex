@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../scss/main.scss"
-    ],
-    "names": [],
-    "file": "main.min.css"
-}
+{"version":3,"sources":["../scss/_global.scss","main.min.css","../scss/_vars.scss","../scss/_about.scss","../scss/_price.scss"],"names":[],"mappings":"AACA;;;EAGI,8BAAA;UAAA,sBAAA;EACA,SAAA;EACA,UAAA;ACAJ;;ADGA;EACI,eAAA;EACA,kCEXQ;EFYR,mBAAA;EACA,gBAAA;ACAJ;;ADIA;EACI,iBAAA;EACA,cAAA;EACA,eAAA;ACDJ;;AEjBA;EACI,wBAAA;MAAA,qBAAA;UAAA,uBAAA;AFoBJ;AElBI;EAEI,YAAA;EACA,aAAA;EACA,WAAA;EACA,WAAA;AFmBR;AEhBI;EACI,cDZA;ECaA,gBAAA;EACA,eAAA;EACA,iBAAA;EACA,kBAAA;AFkBR;AEfI;EACI,kBAAA;EACA,gBAAA;EACA,eAAA;EACA,iBAAA;EACA,kBAAA;EACA,cDxBD;ADyCP;AEdI;EACI,qBAAA;AFgBR;;AG7CA;EACE,kCFHU;ADmDZ;AG9CE;EAEE,kBAAA;EACA,gBAAA;EACA,eAAA;EACA,iBAAA;EACA,WAAA;EAEA,cFXI;ADyDR","file":"main.min.css"}
