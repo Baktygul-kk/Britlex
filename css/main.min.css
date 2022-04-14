@@ -25,14 +25,12 @@ body {
       -ms-flex-pack: center;
           justify-content: center;
 }
-
 .about__img {
   width: 352px;
   height: 352px;
   left: 114px;
   top: 2266px;
 }
-
 .about__title {
   color: #000000;
   font-weight: 600;
@@ -40,7 +38,6 @@ body {
   line-height: 80px;
   text-align: center;
 }
-
 .about__text {
   font-style: normal;
   font-weight: 400;
@@ -49,7 +46,18 @@ body {
   text-align: center;
   color: #8F95A5;
 }
-
 .about li {
   display: inline-block;
 }
+
+.price {
+  font-family: "Poppins", sans-serif;
+}
+.price__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 80px;
+  left: 118px;
+  color: #000000;
+}/*# sourceMappingURL=main.min.css.map */
