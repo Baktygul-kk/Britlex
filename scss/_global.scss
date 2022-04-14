@@ -2,15 +2,18 @@
 *,
 *::after,
 *::before {
-  box-sizing: border-box;
+  box-sizing: inherit;
   margin: 0;
   padding: 0;
+}
+html {
+  box-sizing: border-box;
 }
 body {
   font-size: 13px;
   font-family: $main-font;
   line-height: 19.5px;
-  overflow: hidden;
+  //   overflow: hidden;
 }
 
 .wrapper {
